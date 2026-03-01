@@ -1,13 +1,6 @@
-name: "Extra Cash"
-description: "Get extra money doing various activities, here we gather several platforms so that you feel more comfortable using the one you like the most."
-# Tu dirección de Lightning para recibir propinas (Zaps)
+name: "Extracash"
+description: "Describe aquí qué hace tu app de forma atractiva."
+release_source: "https://github.com/Gohstys/Extracash_app"
 license: "All Rights Reserved"
-#lud16: "tu_usuario@getalby.com" 
-
-# Enlaces a las imágenes (deben ser URLs directas)
-#icons:
-#  - "https://github.com/Gohstys/Extracash_app/icon.png"
-
-#screenshots:
-#  - "https://github.com/Gohstys/Extracash_app/screenshot1.png"
-#  - "https://github.com/Gohstys/Extracash_app/screenshot2.png"
+icons:
+  - "https://raw.githubusercontent.com/Gohstys/Extracash_app/main/icon.png"
