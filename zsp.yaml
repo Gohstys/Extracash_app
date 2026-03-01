@@ -5,8 +5,8 @@ license: "All Rights Reserved"
 #lud16: "tu_usuario@getalby.com" 
 
 # Enlaces a las imágenes (deben ser URLs directas)
-icons:
-  - "https://github.com/Gohstys/Extracash_app/icon.png"
+#icons:
+#  - "https://github.com/Gohstys/Extracash_app/icon.png"
 
 #screenshots:
 #  - "https://github.com/Gohstys/Extracash_app/screenshot1.png"
