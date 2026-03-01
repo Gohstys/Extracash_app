@@ -1,0 +1,12 @@
+name: "Extra Cash"
+description: "Get extra money doing various activities, here we gather several platforms so that you feel more comfortable using the one you like the most."
+# Tu dirección de Lightning para recibir propinas (Zaps)
+#lud16: "tu_usuario@getalby.com" 
+
+# Enlaces a las imágenes (deben ser URLs directas)
+icons:
+  - "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/icon.png"
+
+#screenshots:
+#  - "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/screenshot1.png"
+#  - "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/screenshot2.png"
